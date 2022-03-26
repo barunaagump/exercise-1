@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="50dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/register" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="20dp" android:layout_marginTop="20dp" android:layout_marginRight="20dp" android:layout_marginBottom="20dp" android:layout_marginHorizontal="20dp" android:layout_marginVertical="20dp">
+        <TextView android:textSize="30dp" android:textStyle="bold" android:textColor="@color/black" android:id="@+id/tflogin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Register"/>
+        <TextView android:textSize="18dp" android:textColor="@color/black" android:id="@+id/tflogin4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Nama"/>
+        <EditText android:textColor="@color/white" android:textColorHint="@color/white" android:id="@+id/edh_name" android:background="@drawable/edittext" android:padding="10dp" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="10dp" android:hint="masukan nama" android:drawableLeft="@drawable/ic_baseline_person_24" android:drawablePadding="10dp" android:inputType="textPersonName"/>
+        <TextView android:textSize="18dp" android:textColor="@color/black" android:id="@+id/tflogin2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="Email"/>
+        <EditText android:textColor="@color/white" android:textColorHint="@color/white" android:id="@+id/edh_email" android:background="@drawable/edittext" android:padding="10dp" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="10dp" android:minHeight="48dp" android:hint="masukan email" android:drawableLeft="@drawable/email" android:drawablePadding="10dp" android:inputType="textPersonName"/>
+        <TextView android:textSize="18dp" android:textColor="@color/black" android:id="@+id/tflogin7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="Password"/>
+        <EditText android:textColor="@color/white" android:textColorHint="@color/white" android:id="@+id/edh_pass" android:background="@drawable/edittext" android:padding="10dp" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="10dp" android:minHeight="48dp" android:hint="masukan password" android:drawableLeft="@drawable/ic_baseline_lock_24" android:drawableRight="@drawable/ic_baseline_remove_red_eye_24" android:drawablePadding="10dp" android:inputType="textPassword"/>
+        <TextView android:textSize="18dp" android:textColor="@color/black" android:id="@+id/tflogin3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="Re - Password"/>
+        <EditText android:textColor="@color/white" android:textColorHint="@color/white" android:id="@+id/edh_repwd" android:background="@drawable/edittext" android:padding="10dp" android:layout_width="match_parent" android:layout_height="50dp" android:layout_marginTop="10dp" android:minHeight="48dp" android:hint="masukan password" android:drawableLeft="@drawable/ic_baseline_lock_24" android:drawableRight="@drawable/ic_baseline_remove_red_eye_24" android:drawablePadding="10dp" android:inputType="textPassword"/>
+        <Button android:textColor="@color/white" android:id="@+id/bt_register" android:background="@drawable/button" android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginTop="30dp" android:text="Register"/>
+    </LinearLayout>
+</LinearLayout>

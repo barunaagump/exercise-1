@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="30dp" android:layout_marginTop="20dp" android:layout_marginRight="30dp" android:layout_marginBottom="20dp" android:layout_marginHorizontal="30dp" android:layout_marginVertical="20dp">
+    <TextView android:textSize="20dp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Task"/>
+    <TextView android:textSize="18dp" android:textColor="@color/black" android:id="@+id/tflogin4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Task"/>
+    <TextView android:textSize="18dp" android:textColor="@color/black" android:id="@+id/tf_task" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="ini adalah hasil task"/>
+    <TextView android:textSize="18dp" android:textColor="@color/black" android:id="@+id/tflog" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Jenis Task"/>
+    <TextView android:textSize="18dp" android:textColor="@color/black" android:id="@+id/tf_jenistask" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="ini adalah jenis task"/>
+    <TextView android:textSize="18dp" android:textColor="@color/black" android:id="@+id/tflog3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Time Task"/>
+    <TextView android:textSize="18dp" android:textColor="@color/black" android:id="@+id/tf_lama" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="ini adalah lama task"/>
+</LinearLayout>

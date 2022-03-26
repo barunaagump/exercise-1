@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/drawable/btn_checkbox_checked_mtrl.xml" value="0.2265" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/drawable/costume_edittext.xml" value="0.124" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/drawable/design_fab_background.xml" value="0.124" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/drawable/design_ic_visibility.xml" value="0.124" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/drawable/ic_mtrl_chip_close_circle.xml" value="0.124" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/drawable/lock.xml" value="0.124" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/drawable/logo_background.xml" value="0.124" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/drawable/material_ic_keyboard_arrow_right_black_24dp.xml" value="0.124" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/activity_hasil.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/activity_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/custom_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_bottom_navigation_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_bottom_sheet_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_layout_snackbar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_layout_snackbar_include.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_layout_tab_icon.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_layout_tab_text.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_menu_item_action_area.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_navigation_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_navigation_item_header.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_navigation_item_separator.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_navigation_item_subheader.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_navigation_menu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_navigation_menu_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_text_input_end_icon.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/design_text_input_start_icon.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/login_activity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/material_chip_input_combo.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/material_clock_display.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/material_clock_display_divider.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/material_clock_period_toggle.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/material_clockface_textview.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/material_clockface_view.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/mtrl_calendar_day_of_week.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/barun/AndroidStudioProjects/exercise/app/src/main/res/layout/register_activity.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
